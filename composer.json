@@ -1,0 +1,20 @@
+{
+    "name": "leeto/leeto-admin-theme",
+    "description": "Leeto Admin Theme for Magento 2",
+    "keywords": [
+        "leeto",
+        "free theme",
+        "admin theme",
+        "admin",
+        "theme",
+        "template"
+    ],
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
